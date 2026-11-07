@@ -1,3 +1,8 @@
+//  长度应该写 ≥10
+//  contains_between函数里，lower<ch && ch<upper,改成≤
+// bool digit_ok = contains_between(password,0,9)中的0和9 要改成'0'  '9'
+//  int checked = 0；用不到 可以删掉
+
 #include <iostream>
 #include <string>
 
